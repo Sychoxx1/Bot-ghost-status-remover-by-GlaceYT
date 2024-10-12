@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Riding the REP WAVE 🌊" , "Need HELP? Create a TICKET 💬"];
+const statusMessages = ["Surfing on REP WAVE 🏄" , "Working at REP WAVE 🌊"];
 
 
 let currentIndex = 0;
